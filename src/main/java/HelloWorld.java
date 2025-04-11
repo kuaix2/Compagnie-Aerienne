@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
         // Correct usage of println
-        System.out.println("Hellor");
+        System.out.println("Hello sa va");
     }
 }
