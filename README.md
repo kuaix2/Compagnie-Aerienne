@@ -1,3 +1,5 @@
+Projet JAVA - Développement d’une application qui gère un système de réservation d’une compagnie aérienne
+
 Projet de groupe: 
 - Shu-han CHUANG
 - Allan BENARD
