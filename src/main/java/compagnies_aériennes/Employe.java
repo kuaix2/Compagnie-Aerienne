@@ -1,10 +1,8 @@
-package compagnies_aériennes;
-
 public abstract class Employe extends Personne{
 
     private String numeroEmploye;
     private int dateEmbauche;
-    public Employe(int id, String nom, String prenom, String adresse, String contact, String numeroEmploye, int dateEmbauche) {
+    public Employe(int id, String nom, String prenom,String adresse, String contact, String numeroEmploye, int dateEmbauche) {
         super(id, nom, prenom,adresse,contact);
         this.numeroEmploye = numeroEmploye;
         this.dateEmbauche = dateEmbauche;
